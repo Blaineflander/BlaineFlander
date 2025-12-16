@@ -1,4 +1,4 @@
-<h1>Hi, I'm Blaine, an <a href="https://www.linkedin.com/in/blaine-flander-9229872a/h">IT Professional</a>☺</h1>
+<h1>Hi, I'm Blaine, an <a href="https://www.linkedin.com/in/blaine-flander-9229872a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -12,7 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-
+https://www.linkedin.com/in/blaine-flander-9229872a/
 
 
 
